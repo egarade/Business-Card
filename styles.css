@@ -1,0 +1,29 @@
+body {
+    margin: 20px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.avanta {
+    width: 150px;
+    border-radius: 100px;
+    
+}
+
+.card {
+    
+   padding: 20px;
+   display: flex;
+   justify-content: space-around;
+   width: 400px;
+   margin: 0 auto;
+   color: #2b2839;
+   background: #ddebf8;
+   border: 6px solid #d8cefe;
+   border-radius: 50px 20px
+   
+}
+
+.border-blue {
+    
+}
